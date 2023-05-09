@@ -1,4 +1,4 @@
-package aut.testcreation.testcases;
+package aut.testcreation.testcases.ejemplosDomingo;
 
 import framework.engine.selenium.DriverFactory;
 import framework.engine.selenium.SeleniumTestBase;
